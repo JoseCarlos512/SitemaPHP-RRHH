@@ -10,5 +10,5 @@ orientado a la identificación de los empleados mas vulnerables a partir de aná
 con el resultado generar una lista escogiendo empleados para su futura capacitación
 
 ---
-Derechos de autor reservados año 2021
+Derechos de autor: Jose Carlos Leon Tito reservados año 2021
 
